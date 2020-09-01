@@ -7212,7 +7212,7 @@ class CfgVehicles
 
 			class _xx_30Rnd_580x42_Mag_F
 			{
-				magazine = "30Rnd_580x42_Mag_F";
+				magazine = "30Rnd_580x42_Mag_Tracer_F";
 				count = 180;
 			};
 
